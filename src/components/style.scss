@@ -1,0 +1,164 @@
+@import '../main.scss';
+
+.main__hero{
+    padding-top: 6.7rem;
+
+    .hero{
+        max-width: 90%;
+        margin: auto;
+        background-color: $primary-black;
+        color: $primary-white;
+
+
+        .items{
+            padding: 2rem 0;
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            // h1{
+            //     text-align: center;
+            // }
+            p{
+                margin-top: 1rem;
+            }
+            button{
+                margin-top: 0.5rem;
+                color: $primary-red;
+                p{
+                    margin-top: 0;
+                }
+            }
+            .img{
+                margin-top: 1rem;
+                width: 70%;
+            }
+        }
+
+        .arr{
+
+            display: flex;
+            gap: 10px;
+            justify-content: flex-end;
+            margin: 0 2rem 2rem 0;
+            
+            button{
+                ion-icon{
+                    color: $primary-white;
+                    padding: 10px;
+                    border: 1px solid;
+                    border-radius: 50%;
+                    font-size: 22px;
+                }
+            }
+        }
+    }
+    
+}
+
+@media (min-width: 768px){
+    .main__hero{    
+        .hero{
+            .items{
+                padding: 2rem 0;
+                width: 100%;
+                display: flex;
+                gap: 3rem;
+                flex-direction: row;
+
+                p{
+                    margin-top: 1rem;
+                }
+                button{
+                    margin-top: 0.5rem;
+                    color: $primary-red;
+                }
+                .img{
+                    margin-top: 1rem;
+                    width: 50%;
+                }
+            }
+        }
+        
+    }
+}
+@media (min-width: 1024px){
+    .main__hero{    
+        .hero{
+            .items{
+                padding: 2rem 0;
+                width: 100%;
+                display: flex;
+                gap: 3rem;
+                flex-direction: row;
+
+                p{
+                    margin-top: 1rem;
+                }
+                button{
+                    margin-top: 0.5rem;
+                    color: $primary-red;
+                }
+                .img{
+                    margin-top: 1rem;
+                    width: 20%;
+                }
+            }
+        }
+        
+    }
+}
+@media (min-width: 1324px){
+    .main__hero{    
+        .hero{
+            .items{
+                padding: 1.5rem 0;
+                width: 100%;
+                display: flex;
+                gap: 3rem;
+                flex-direction: row;
+                h1{
+                    font-size: 60px;
+                }
+                p{
+                    margin-top: 1rem;
+                }
+                button{
+                    margin-top: 0.5rem;
+                    color: $primary-red;
+                    cursor: pointer;
+
+                    p{
+                        display: flex;
+                        align-items: center;
+                    }
+                }
+                .img{
+                    margin-top: 1rem;
+                    width: 20%;
+                }
+            }
+            .arr{
+                position: relative;
+                // background-color: $primary-black;
+                z-index: 11;
+                display: flex;
+                gap: 10px;
+                justify-content: flex-end;
+                margin: -3.5rem 2rem 2rem 0;
+                button{
+                    ion-icon{
+                        color: $primary-white;
+                        padding: 10px;
+                        border: 1px solid;
+                        border-radius: 50%;
+                        font-size: 22px;
+                    }
+                }
+            }
+        }
+        
+    }
+}

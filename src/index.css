@@ -1,0 +1,52 @@
+.swiper-button-next,
+.swiper-button-prev {
+    display: none;
+}
+
+
+/* მაგალითად, App.css ან შესაბამისი CSS ფაილი */
+.mySwiper {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+.mySwiper .swiper-pagination-bullet {
+  background: transparent; /* შეცვალე ფერი სურვილისამებრ */
+  opacity: 1;
+  width: 10px;
+  height: 10px;
+  border: 1px solid #000000;
+}
+
+.mySwiper .swiper-pagination-bullet-active {
+  margin-top: 5rem;
+  background: #DB4444 !important; /* აქტიური წერტილის ფერი */
+  border: 1px solid #DB4444;
+  opacity: 1;
+}
+
+
+.scroll-top-icon{
+    font-size: 5px;
+}
+::-webkit-scrollbar {
+    width: 5px;
+    height: 7px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    border-radius: 0px;
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #f42f2c; 
+    border-radius: 0px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #de4947; 
+  }
