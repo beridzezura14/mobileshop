@@ -1,7 +1,7 @@
 import iphone12mini from "./assets/12-mini-64GB-black-.png"
 import iPhone12Pro from "./assets/12-Pro-amazon-.jpg"
 import iPhone14Pro from './assets/14-Pro-website-22.png'
-import iphone111 from './assets/iphone-11-Black-.jpg'
+// import iphone111 from './assets/iphone-11-Black-.jpg'
 import iphone11pro1 from './assets/iphone-11-Pro-Gray-.jpg'
 import iphone11pro2 from './assets/iphone-11-Pro-Green-.jpg'
 import iphone11pro3 from './assets/iphone-11-Pro-silver.jpg'
@@ -66,17 +66,17 @@ export const products = [
       oldPrice: '800',
       otherImage: []
     },
-    {
-      id: 4,
-      image: iphone111,
-      model: 'iPhone 11',
-      storage: '256GB',
-      color: 'black',
-      price: 950,
-      discount: false,
-      oldPrice: '750',
-      otherImage: []
-    },
+    // {
+    //   id: 4,
+    //   image: iphone111,
+    //   model: 'iPhone 11',
+    //   storage: '256GB',
+    //   color: 'black',
+    //   price: 950,
+    //   discount: false,
+    //   oldPrice: '750',
+    //   otherImage: []
+    // },
     {
       id: 5,
       image: iphone11pro1,
