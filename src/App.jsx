@@ -43,9 +43,6 @@ function App() {
           clearList={clearList}
         />
         <Routes>
-          <Route>
-
-          </Route>
           <Route path="/" element={<Home />} />
           <Route path="/Home" element={<Home />} />
           <Route path="/Shop" element={<Shop />} />
