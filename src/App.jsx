@@ -35,7 +35,7 @@ function App() {
   }
   return (
     <>
-      <Router>
+      <Router basename="/">
         <Header 
           searchTerm={searchTerm}
           setSearchTerm={setSearchTerm} 
