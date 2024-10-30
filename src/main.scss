@@ -220,12 +220,19 @@ button{
     }
 
     .detailSlide{
-    display: flex;
+        
 
-        .img__space{
+        .detailSlide__slide{
+            width: 100%;
             display: flex;
             justify-content: center;
             align-items: center;
+
+            .img__space{
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
 
             .details__img{
                 width: 300px;

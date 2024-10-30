@@ -1,12 +1,12 @@
-import iphone12mini from "./assets/12-mini-64GB-black-.png"
-import iPhone12Pro from "./assets/12-Pro-amazon-.jpg"
+import iphone12mini from "./assets/12-mini-64GB-black.png"
+import iPhone12Pro from "./assets/12-Pro-amazon.jpg"
 import iPhone14Pro from './assets/14-Pro-website-22.png'
-// import iphone111 from './assets/iphone-11-Black-.jpg'
-import iphone11pro1 from './assets/iphone-11-Pro-Gray-.jpg'
-import iphone11pro2 from './assets/iphone-11-Pro-Green-.jpg'
+import iphone111 from './assets/iphone-11-Black.jpg'
+import iphone11pro1 from './assets/iphone-11-Pro-Gray.jpg'
+import iphone11pro2 from './assets/iphone-11-Pro-Green.jpg'
 import iphone11pro3 from './assets/iphone-11-Pro-silver.jpg'
-import iphone12 from './assets/iphone-12-.jpg'
-import iphone12pro from './assets/iphone-12-Pro-Blue-.png'
+import iphone12 from './assets/iphone-12.jpg'
+import iphone12pro from './assets/iphone-12-Pro-Blue.png'
 import iphone131 from './assets/iphone-13-128GB-black-1.png'
 import iphone132 from './assets/iphone-13-128GB-green-back.png'
 import iphone133 from  './assets/iphone-13-blue-128gb.png'
@@ -19,15 +19,15 @@ import iphone15pro1 from './assets/iphone15problue.png'
 import iphone15pro2 from './assets/iphone15prro.png'
 import i15promax1 from './assets/iphone15promaxblack.png'
 import i15promax2 from './assets/iphone15promaxblue.png'
-import iphonese1 from './assets/iPhone-SE-2022-blue-.jpg'
+import iphonese1 from './assets/iPhone-SE-2022-blue.jpg'
 import iphonese2 from './assets/iPhone-SE-2022-red.jpg'
 import iphonexr from './assets/iPhone-XR-64GB.jpg'
-import s202 from './assets/S20-12-ram-.jpg'
-import s203 from './assets/S20-FE-.jpg'
-import s21 from './assets/s21-new-.jpg'
-import s21ultra from './assets/s21-Ultra-Black-1-.jpg'
-import s22 from './assets/s22-Black-.jpg'
-import galaxy from './assets/Samsung-Galaxy-s21-Ultra-.jpg'
+import s202 from './assets/s20-12-ram.jpg'
+import s203 from './assets/s20-FE.jpg'
+import s21 from './assets/s21-new.jpg'
+import s21ultra from './assets/s21-Ultra-Black-1.jpg'
+import s22 from './assets/s22-Black.jpg'
+import galaxy from './assets/Samsung-Galaxy-s21-Ultra.jpg'
 
 
 
@@ -66,17 +66,17 @@ export const products = [
       oldPrice: '800',
       otherImage: []
     },
-    // {
-    //   id: 4,
-    //   image: iphone111,
-    //   model: 'iPhone 11',
-    //   storage: '256GB',
-    //   color: 'black',
-    //   price: 950,
-    //   discount: false,
-    //   oldPrice: '750',
-    //   otherImage: []
-    // },
+    {
+      id: 4,
+      image: iphone111,
+      model: 'iPhone 11',
+      storage: '256GB',
+      color: 'black',
+      price: 950,
+      discount: false,
+      oldPrice: '750',
+      otherImage: []
+    },
     {
       id: 5,
       image: iphone11pro1,
