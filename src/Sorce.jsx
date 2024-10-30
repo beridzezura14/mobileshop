@@ -1,33 +1,33 @@
 import iphone12mini from "./assets/12mini64GBblack.png"
 import iPhone12Pro from "./assets/12Proamazon.jpg"
 import iPhone14Pro from './assets/14Prowebsite22.png'
-import iphone111 from './assets/iphone11Black.jpg'
-import iphone11pro1 from './assets/iphone11ProGray.jpg'
-import iphone11pro2 from './assets/iphone11ProGreen.jpg'
-import iphone11pro3 from './assets/iphone11Prosilver.jpg'
-import iphone12 from './assets/iphone12.jpg'
-import iphone12pro from './assets/iphone-12-Pro-Blue.png'
-import iphone131 from './assets/iphone-13-128GB-black-1.png'
-import iphone132 from './assets/iphone-13-128GB-green-back.png'
-import iphone133 from  './assets/iphone-13-blue-128gb.png'
-import iphone134 from './assets/iphone-13-pink-128gb-1.png'
-import iphone13pro1 from './assets/iPhone-13-pro-ALpine-Green.png'
-import iphone13pro2 from './assets/iPhone-13-pro-Graphite.png'
-import iphone13pro3 from './assets/iPhone-13-pro-Sierra-Blue.png'
-import iphone13pro4 from './assets/iPhone-13-pro-Silver.png'
-import iphone15pro1 from './assets/iphone15problue.png'
-import iphone15pro2 from './assets/iphone15prro.png'
-import i15promax1 from './assets/iphone15promaxblack.png'
-import i15promax2 from './assets/iphone15promaxblue.png'
-import iphonese1 from './assets/iPhone-SE-2022-blue.jpg'
-import iphonese2 from './assets/iPhone-SE-2022-red.jpg'
-import iphonexr from './assets/iPhone-XR-64GB.jpg'
-import s202 from './assets/s20-12-ram.jpg'
-import s203 from './assets/s20-FE.jpg'
-import s21 from './assets/s21-new.jpg'
-import s21ultra from './assets/s21-Ultra-Black-1.jpg'
-import s22 from './assets/s22-Black.jpg'
-import galaxy from './assets/Samsung-Galaxy-s21-Ultra.jpg'
+// import iphone111 from './assets/iphone11Black.jpg'
+// import iphone11pro1 from './assets/iphone11ProGray.jpg'
+// import iphone11pro2 from './assets/iphone11ProGreen.jpg'
+// import iphone11pro3 from './assets/iphone11Prosilver.jpg'
+// import iphone12 from './assets/iphone12.jpg'
+// import iphone12pro from './assets/iphone-12-Pro-Blue.png'
+// import iphone131 from './assets/iphone-13-128GB-black-1.png'
+// import iphone132 from './assets/iphone-13-128GB-green-back.png'
+// import iphone133 from  './assets/iphone-13-blue-128gb.png'
+// import iphone134 from './assets/iphone-13-pink-128gb-1.png'
+// import iphone13pro1 from './assets/iPhone-13-pro-ALpine-Green.png'
+// import iphone13pro2 from './assets/iPhone-13-pro-Graphite.png'
+// import iphone13pro3 from './assets/iPhone-13-pro-Sierra-Blue.png'
+// import iphone13pro4 from './assets/iPhone-13-pro-Silver.png'
+// import iphone15pro1 from './assets/iphone15problue.png'
+// import iphone15pro2 from './assets/iphone15prro.png'
+// import i15promax1 from './assets/iphone15promaxblack.png'
+// import i15promax2 from './assets/iphone15promaxblue.png'
+// import iphonese1 from './assets/iPhone-SE-2022-blue.jpg'
+// import iphonese2 from './assets/iPhone-SE-2022-red.jpg'
+// import iphonexr from './assets/iPhone-XR-64GB.jpg'
+// import s202 from './assets/s20-12-ram.jpg'
+// import s203 from './assets/s20-FE.jpg'
+// import s21 from './assets/s21-new.jpg'
+// import s21ultra from './assets/s21-Ultra-Black-1.jpg'
+// import s22 from './assets/s22-Black.jpg'
+// import galaxy from './assets/Samsung-Galaxy-s21-Ultra.jpg'
 
 
 
@@ -66,303 +66,303 @@ export const products = [
       oldPrice: '800',
       otherImage: []
     },
-    {
-      id: 4,
-      image: iphone111,
-      model: 'iPhone 11',
-      storage: '256GB',
-      color: 'black',
-      price: 950,
-      discount: false,
-      oldPrice: '750',
-      otherImage: []
-    },
-    {
-      id: 5,
-      image: iphone11pro1,
-      model: 'iPhone 11 Pro',
-      storage: '128GB',
-      color: 'grey',
-      price: 1200,
-      discount: false,
-      oldPrice: '700',
-      otherImage: []
-    },
-    {
-      id: 6,
-      image: iphone11pro2,
-      model: 'iPhone 11 Pro',
-      storage: '128GB',
-      color: 'Green',
-      price: 1200,
-      discount: false,
-      oldPrice: '650',
-      otherImage: []
-    },
-    {
-      id: 7,
-      image: iphone11pro3,
-      model: 'iPhone 11 Pro',
-      storage: '128GB',
-      color: 'Silver',
-      price: 1200,
-      discount: false,
-      oldPrice: '900',
-      otherImage: []
-    },
-    {
-      id: 8,
-      image: iphone12,
-      model: 'iPhone 12',
-      storage: '128GB',
-      color: 'Black',
-      price: 1200,
-      discount: false,
-      oldPrice: '1000',
-      otherImage: [],
-    },
-    {
-      id: 9,
-      image: iphone12pro,
-      model: 'iPhone 12 Pro',
-      storage: '128GB',
-      color: 'Blue',
-      price: 1400,
-      discount: false,
-      oldPrice: '850',
-      otherImage: []
-    },
-    {
-      id: 10,
-      image: iphone131,
-      model: 'iPhone 13',
-      storage: '128GB',
-      color: 'Black',
-      price: 1800,
-      discount: false,
-      oldPrice: '700',
-      otherImage: []
-    },
-    {
-      id: 11,
-      image: iphone132,
-      model: 'iPhone 13',
-      storage: '128GB',
-      color: 'Green',
-      price: 1800,
-      discount: false,
-      oldPrice: '1100',
-      otherImage: [],
-    },
-    {
-      id: 12,
-      image: iphone133,
-      model: 'iPhone 13',
-      storage: '128GB',
-      color: 'Blue',
-      price: 1800,
-      discount: false,
-      oldPrice: '1300',
-      otherImage: [],
-    },
-    {
-      id: 13,
-      image: iphone134,
-      model: 'iPhone 13',
-      storage: '128GB',
-      color: 'Pink',
-      price: 1800,
-      discount: false,
-      oldPrice: '950',
-      otherImage: []
-    },
-    {
-      id: 14,
-      image: iphone13pro1,
-      model: 'iPhone 13 Pro',
-      storage: '128GB',
-      color: 'Green',
-      price: 2000,
-      discount: false,
-      oldPrice: '1050',
-      otherImage: [],
-    },
-    {
-      id: 15,
-      image: iphone13pro2,
-      model: 'iPhone 13 Pro',
-      storage: '128GB',
-      color: 'Graphite',
-      price: 2000,
-      discount: false,
-      oldPrice: '1200',
-      otherImage: [],
-    },
-    {
-      id: 16,
-      image: iphone13pro3,
-      model: 'iPhone 13 Pro',
-      storage: '128GB',
-      color: 'Blue',
-      price: 2000,
-      discount: false,
-      oldPrice: '1150',
-      otherImage: [],
-    },
-    {
-      id: 17,
-      image: iphone13pro4,
-      model: 'iPhone 13 Pro',
-      storage: '256GB',
-      color: 'Silver',
-      price: 2000,
-      discount: false,
-      oldPrice: '1400',
-      otherImage: [],
-    },
-    {
-      id: 18,
-      image: iphone15pro1,
-      model: 'iPhone 15 Pro',
-      storage: '128GB',
-      color: 'Blue',
-      price: 2700,
-      discount: false,
-      oldPrice: '800',
-      otherImage: []
-    },
-    {
-      id: 19,
-      image: iphone15pro2,
-      model: 'iPhone 15 Pro',
-      storage: '128GB',
-      color: 'Grey',
-      price: 3000,
-      discount: false,
-      oldPrice: '1500',
-      otherImage: [],
-    },
-    {
-      id: 20,
-      image: i15promax1,
-      model: 'iPhone 15 Pro Max',
-      storage: '128GB',
-      color: 'Black',
-      price: 3200,
-      discount: false,
-      oldPrice: '650',
-      otherImage: []
-    },
-    {
-      id: 21,
-      image: i15promax2,
-      model: 'iPhone 15 Pro Max',
-      storage: '512GB',
-      color: 'Blue',
-      price: 3200,
-      discount: false,
-      oldPrice: '1500',
-      otherImage: [],
-    },
-    {
-      id: 22,
-      image: iphonese1,
-      model: 'iPhone SE 2022',
-      storage: '128GB',
-      color: 'Blue',
-      price: 900,
-      discount: false,
-      oldPrice: '2000',
-      otherImage: [],
-    },
-    {
-      id: 23,
-      image: iphonese2,
-      model: 'iPhone SE 2022',
-      storage: '128GB',
-      color: 'Red',
-      price: 900,
-      discount: false,
-      oldPrice: '1300',
-      otherImage: [],
-    },
-    {
-      id: 24,
-      image: iphonexr,
-      model: 'iPhone XR',
-      storage: '128GB',
-      color: 'Black',
-      price: 800,
-      discount: false,
-      oldPrice: '600',
-      otherImage: []
-    },
-    {
-      id: 25,
-      image: s202,
-      model: 'Samsung s20',
-      storage: '128GB',
-      color: 'Grey',
-      price: 700,
-      discount: false,
-      oldPrice: '500',
-      otherImage: []
-    },
-    {
-      id: 26,
-      image: s203,
-      model: 'Samsung s20',
-      storage: '256GB',
-      color: 'Blue',
-      price: 700,
-      discount: false,
-      oldPrice: '900',
-      otherImage: []
-    },
-    {
-      id: 27,
-      image: s21,
-      model: 'Samsung s21',
-      storage: '128GB',
-      color: 'Grey',
-      price: 1200,
-      discount: false,
-      oldPrice: '600',
-      otherImage: []
-    },
-    {
-      id: 28,
-      image: s21ultra,
-      model: 'Samsung s21 Ultra',
-      storage: '128GB',
-      color: 'Black',
-      price: 1400,
-      discount: false,
-      oldPrice: '550',
-      otherImage: []
-    },
-    {
-      id: 29,
-      image: s22,
-      model: 'Samsung s22',
-      storage: '256GB',
-      color: 'Black',
-      price: 1200,
-      discount: false,
-      oldPrice: '700',
-      otherImage: []
-    },
-    {
-      id: 30,
-      image: galaxy,
-      model: 'Samsung Galaxy s21 Ultra',
-      storage: '128GB',
-      color: 'Yellow',
-      price: 1200,
-      discount: false,
-      oldPrice: '500',
-      otherImage: []
-    }
+    // {
+    //   id: 4,
+    //   image: iphone111,
+    //   model: 'iPhone 11',
+    //   storage: '256GB',
+    //   color: 'black',
+    //   price: 950,
+    //   discount: false,
+    //   oldPrice: '750',
+    //   otherImage: []
+    // },
+    // {
+    //   id: 5,
+    //   image: iphone11pro1,
+    //   model: 'iPhone 11 Pro',
+    //   storage: '128GB',
+    //   color: 'grey',
+    //   price: 1200,
+    //   discount: false,
+    //   oldPrice: '700',
+    //   otherImage: []
+    // },
+    // {
+    //   id: 6,
+    //   image: iphone11pro2,
+    //   model: 'iPhone 11 Pro',
+    //   storage: '128GB',
+    //   color: 'Green',
+    //   price: 1200,
+    //   discount: false,
+    //   oldPrice: '650',
+    //   otherImage: []
+    // },
+    // {
+    //   id: 7,
+    //   image: iphone11pro3,
+    //   model: 'iPhone 11 Pro',
+    //   storage: '128GB',
+    //   color: 'Silver',
+    //   price: 1200,
+    //   discount: false,
+    //   oldPrice: '900',
+    //   otherImage: []
+    // },
+    // {
+    //   id: 8,
+    //   image: iphone12,
+    //   model: 'iPhone 12',
+    //   storage: '128GB',
+    //   color: 'Black',
+    //   price: 1200,
+    //   discount: false,
+    //   oldPrice: '1000',
+    //   otherImage: [],
+    // },
+    // {
+    //   id: 9,
+    //   image: iphone12pro,
+    //   model: 'iPhone 12 Pro',
+    //   storage: '128GB',
+    //   color: 'Blue',
+    //   price: 1400,
+    //   discount: false,
+    //   oldPrice: '850',
+    //   otherImage: []
+    // },
+    // {
+    //   id: 10,
+    //   image: iphone131,
+    //   model: 'iPhone 13',
+    //   storage: '128GB',
+    //   color: 'Black',
+    //   price: 1800,
+    //   discount: false,
+    //   oldPrice: '700',
+    //   otherImage: []
+    // },
+    // {
+    //   id: 11,
+    //   image: iphone132,
+    //   model: 'iPhone 13',
+    //   storage: '128GB',
+    //   color: 'Green',
+    //   price: 1800,
+    //   discount: false,
+    //   oldPrice: '1100',
+    //   otherImage: [],
+    // },
+    // {
+    //   id: 12,
+    //   image: iphone133,
+    //   model: 'iPhone 13',
+    //   storage: '128GB',
+    //   color: 'Blue',
+    //   price: 1800,
+    //   discount: false,
+    //   oldPrice: '1300',
+    //   otherImage: [],
+    // },
+    // {
+    //   id: 13,
+    //   image: iphone134,
+    //   model: 'iPhone 13',
+    //   storage: '128GB',
+    //   color: 'Pink',
+    //   price: 1800,
+    //   discount: false,
+    //   oldPrice: '950',
+    //   otherImage: []
+    // },
+    // {
+    //   id: 14,
+    //   image: iphone13pro1,
+    //   model: 'iPhone 13 Pro',
+    //   storage: '128GB',
+    //   color: 'Green',
+    //   price: 2000,
+    //   discount: false,
+    //   oldPrice: '1050',
+    //   otherImage: [],
+    // },
+    // {
+    //   id: 15,
+    //   image: iphone13pro2,
+    //   model: 'iPhone 13 Pro',
+    //   storage: '128GB',
+    //   color: 'Graphite',
+    //   price: 2000,
+    //   discount: false,
+    //   oldPrice: '1200',
+    //   otherImage: [],
+    // },
+    // {
+    //   id: 16,
+    //   image: iphone13pro3,
+    //   model: 'iPhone 13 Pro',
+    //   storage: '128GB',
+    //   color: 'Blue',
+    //   price: 2000,
+    //   discount: false,
+    //   oldPrice: '1150',
+    //   otherImage: [],
+    // },
+    // {
+    //   id: 17,
+    //   image: iphone13pro4,
+    //   model: 'iPhone 13 Pro',
+    //   storage: '256GB',
+    //   color: 'Silver',
+    //   price: 2000,
+    //   discount: false,
+    //   oldPrice: '1400',
+    //   otherImage: [],
+    // },
+    // {
+    //   id: 18,
+    //   image: iphone15pro1,
+    //   model: 'iPhone 15 Pro',
+    //   storage: '128GB',
+    //   color: 'Blue',
+    //   price: 2700,
+    //   discount: false,
+    //   oldPrice: '800',
+    //   otherImage: []
+    // },
+    // {
+    //   id: 19,
+    //   image: iphone15pro2,
+    //   model: 'iPhone 15 Pro',
+    //   storage: '128GB',
+    //   color: 'Grey',
+    //   price: 3000,
+    //   discount: false,
+    //   oldPrice: '1500',
+    //   otherImage: [],
+    // },
+    // {
+    //   id: 20,
+    //   image: i15promax1,
+    //   model: 'iPhone 15 Pro Max',
+    //   storage: '128GB',
+    //   color: 'Black',
+    //   price: 3200,
+    //   discount: false,
+    //   oldPrice: '650',
+    //   otherImage: []
+    // },
+    // {
+    //   id: 21,
+    //   image: i15promax2,
+    //   model: 'iPhone 15 Pro Max',
+    //   storage: '512GB',
+    //   color: 'Blue',
+    //   price: 3200,
+    //   discount: false,
+    //   oldPrice: '1500',
+    //   otherImage: [],
+    // },
+    // {
+    //   id: 22,
+    //   image: iphonese1,
+    //   model: 'iPhone SE 2022',
+    //   storage: '128GB',
+    //   color: 'Blue',
+    //   price: 900,
+    //   discount: false,
+    //   oldPrice: '2000',
+    //   otherImage: [],
+    // },
+    // {
+    //   id: 23,
+    //   image: iphonese2,
+    //   model: 'iPhone SE 2022',
+    //   storage: '128GB',
+    //   color: 'Red',
+    //   price: 900,
+    //   discount: false,
+    //   oldPrice: '1300',
+    //   otherImage: [],
+    // },
+    // {
+    //   id: 24,
+    //   image: iphonexr,
+    //   model: 'iPhone XR',
+    //   storage: '128GB',
+    //   color: 'Black',
+    //   price: 800,
+    //   discount: false,
+    //   oldPrice: '600',
+    //   otherImage: []
+    // },
+    // {
+    //   id: 25,
+    //   image: s202,
+    //   model: 'Samsung s20',
+    //   storage: '128GB',
+    //   color: 'Grey',
+    //   price: 700,
+    //   discount: false,
+    //   oldPrice: '500',
+    //   otherImage: []
+    // },
+    // {
+    //   id: 26,
+    //   image: s203,
+    //   model: 'Samsung s20',
+    //   storage: '256GB',
+    //   color: 'Blue',
+    //   price: 700,
+    //   discount: false,
+    //   oldPrice: '900',
+    //   otherImage: []
+    // },
+    // {
+    //   id: 27,
+    //   image: s21,
+    //   model: 'Samsung s21',
+    //   storage: '128GB',
+    //   color: 'Grey',
+    //   price: 1200,
+    //   discount: false,
+    //   oldPrice: '600',
+    //   otherImage: []
+    // },
+    // {
+    //   id: 28,
+    //   image: s21ultra,
+    //   model: 'Samsung s21 Ultra',
+    //   storage: '128GB',
+    //   color: 'Black',
+    //   price: 1400,
+    //   discount: false,
+    //   oldPrice: '550',
+    //   otherImage: []
+    // },
+    // {
+    //   id: 29,
+    //   image: s22,
+    //   model: 'Samsung s22',
+    //   storage: '256GB',
+    //   color: 'Black',
+    //   price: 1200,
+    //   discount: false,
+    //   oldPrice: '700',
+    //   otherImage: []
+    // },
+    // {
+    //   id: 30,
+    //   image: galaxy,
+    //   model: 'Samsung Galaxy s21 Ultra',
+    //   storage: '128GB',
+    //   color: 'Yellow',
+    //   price: 1200,
+    //   discount: false,
+    //   oldPrice: '500',
+    //   otherImage: []
+    // }
 ];
 
 
